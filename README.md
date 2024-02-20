@@ -73,5 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Sample Project
 # OutPut
+![calculator](https://github.com/tophankumarray/react_calculator/assets/93485734/543d564d-932c-4135-ae05-8fbd9c56b2ab)
+
 
 
